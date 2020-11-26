@@ -1,0 +1,10 @@
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Przemek\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
